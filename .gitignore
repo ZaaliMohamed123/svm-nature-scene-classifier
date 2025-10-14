@@ -1,0 +1,108 @@
+# =========================================
+# 🐍 Python
+# =========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+
+# =========================================
+# 🧠 Data Science / Notebooks
+# =========================================
+# Jupyter Notebook checkpoints (again)
+.ipynb_checkpoints/
+# Saved model artifacts
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+# Large data or temp files
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.log
+
+# =========================================
+# 🧰 IDEs & Editors
+# =========================================
+# VS Code
+.vscode/
+# PyCharm / JetBrains
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Others
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# =========================================
+# 🪄 Environment / OS
+# =========================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.bak
+*.tmp
+*.temp
+*.log
+
+# =========================================
+# 🧪 Misc
+# =========================================
+# Temporary notebooks or experiments
+sandbox/
+scratch/
+test_*.py
