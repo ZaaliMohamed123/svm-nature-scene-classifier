@@ -64,6 +64,7 @@ models/
 *.pkl
 *.joblib
 # Large data or temp files
+data/
 datasets/
 *.csv
 *.tsv
