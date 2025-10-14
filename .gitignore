@@ -69,6 +69,8 @@ datasets/
 *.tsv
 *.parquet
 *.log
+# kaggle specific
+kaggle.json
 
 # =========================================
 # 🧰 IDEs & Editors
